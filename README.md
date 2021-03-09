@@ -10,7 +10,7 @@ Ruddlys - Virtual Studio Space is a feature rich and highly flexible OpenSource 
 The kit is a forked derivative flavour of the Humhub Social Network kit.:
 
 More information:
-- [Homepage & Demo](http://www.humhub.org)
+- [Homepage & Demo](http://www.studio.ruddlys.com)
 - [Documentation & Class Reference](http://docs.humhub.org)
 - [Community](http://community.humhub.com/)
 - [Licence](https://www.humhub.com/licences)
